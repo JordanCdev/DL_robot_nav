@@ -1,4 +1,4 @@
-# DL_robot_nav
+# Deep neural net - Robot navigation
 
 The Deep Learning Winter School took place at the University of Hull in January 2019. They were tailored towards undergraduate and postgradudate students as well as advanced pupils and prospective students who wish to get involved with the exciting research field of deep learning.
 
